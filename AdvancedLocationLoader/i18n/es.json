@@ -1,0 +1,10 @@
+~Translation by xcoopx
+{
+  "sparkle": "A pesar del brillo que viste, no parece haber nada aquí.",
+  "gold": "Oro",
+  "yesCost": "Si, Cuesta {{amount}} {{itemName}}",
+  "no": "No",
+  "notEnough": "No tienes suficiente {{itemName}} para esto.",
+  "cancel": "Cancelar",
+  "teleporter": "Elige un destino:"
+}
