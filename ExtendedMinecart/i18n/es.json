@@ -1,0 +1,5 @@
+{
+  "choose-destination": "Elegir Destino", 
+  "needs-refuel.question": "La vagoneta se ha quedado sin combustible. ¿Utilizar 5 de carbón para repostarlo?",
+  "needs-refuel.no-coal": "La vagoneta está sin combustible y requiere 5 de carbón para ser repostado."
+}
